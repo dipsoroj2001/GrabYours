@@ -1,2 +1,2 @@
 # GrabYours
-Website for a T-shirt company
+Website for a T-shirt company.
